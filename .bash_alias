@@ -1,3 +1,5 @@
-alias ls="ls -al --color=auto"
-alias vi="vim"
-alias grep="grep --color=auto"
+alias ls="ls -al --color=auto"     # add color to ls by default
+alias vi="vim"                     # use vim, instead of vi
+alias grep="grep --color=auto"     # add color to grep by default
+alias cd..="cd .."                 # account for a common typo
+
